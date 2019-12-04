@@ -1,1 +1,1 @@
-# Some mini machine learning project
+# Some mini machine learning projects
